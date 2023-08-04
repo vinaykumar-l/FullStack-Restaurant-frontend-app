@@ -1,6 +1,6 @@
 # Restaurant App Frontend using Next.js
 
-![Restaurant App Logo](./public/temporary/rest-img.jpeg)
+![Restaurant App Logo](/temporary/rest-img.jpeg)
 
 The Restaurant App Frontend is a web application developed using Next.js that allows users to browse and interact with a restaurant's menu, place orders, make reservations, and explore various dining options. This README.md provides an overview of the project, instructions for setting up the development environment, and details about the main features and functionalities of the application.
 
